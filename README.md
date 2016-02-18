@@ -1,0 +1,1 @@
+# greenplum_single_node_docker
